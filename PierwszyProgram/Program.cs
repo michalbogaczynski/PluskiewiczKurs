@@ -10,6 +10,10 @@ namespace PierwszyProgram
     {
         static void Main(string[] args)
         {
+            /* Pierwszy program */                              
+
+            Console.WriteLine("Witaj świecie");
+            Console.ReadKey();
         }
     }
 }
